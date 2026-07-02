@@ -1,3 +1,3 @@
 # Mô hình hệ thống
 
-![Sơ đồ Lab](../Lab%202.png)
+![Sơ đồ Lab](../Lab2.png)
